@@ -1,6 +1,8 @@
 from sys import argv
 from s8 import open_file, open_two_files
 
+
+
 script, input_file1 , input_file2, outfile, outfile2, outfile3   = argv
 
 b= open_two_files(input_file1 , input_file2)
