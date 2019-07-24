@@ -1,5 +1,5 @@
 from sys import argv
-from s8 import open_file, open_two_files
+from s8.txt import open_file, open_two_files
 
 
 
